@@ -1,0 +1,13 @@
+FactoryMethodPatternExample/
+│
+├── Document.java
+├── WordDocument.java
+├── PdfDocument.java
+├── ExcelDocument.java
+│
+├── DocumentFactory.java
+├── WordDocumentFactory.java
+├── PdfDocumentFactory.java
+├── ExcelDocumentFactory.java
+│
+└── Main.java
